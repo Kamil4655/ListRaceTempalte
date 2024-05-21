@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\ListRace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|c:\\users\\kamil\\desktop\\listrace\\listrace\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|solutionrelative:listrace\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|c:\\users\\kamil\\desktop\\listrace\\listrace\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|solutionrelative:listrace\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|c:\\users\\kamil\\desktop\\listrace\\listrace\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|solutionrelative:listrace\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|c:\\users\\kamil\\desktop\\listrace\\listrace\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|solutionrelative:listrace\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|c:\\users\\kamil\\desktop\\listrace\\listrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86A1670-72FC-4282-8343-58F67E7DFAC3}|ListRace\\ListRace.csproj|solutionrelative:listrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ListRace\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ListRace\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T00:17:56.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ListRace\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ListRace\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T00:08:29.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListRace\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ListRace\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwFYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T00:08:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ListRace\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ListRace\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswFUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:53:07.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Program.cs",
+              "RelativeDocumentMoniker": "ListRace\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\ListRace\\ListRace\\Program.cs",
+              "RelativeToolTip": "ListRace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:20:53.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
